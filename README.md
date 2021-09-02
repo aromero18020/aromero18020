@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aromero18020
+- 👋 Hi, I’m Andres Romero @aromero18020
 - 👀 I’m interested in learning to code and change my career.
 - 🌱 I’m currently learning through CodeCademy's Full Stack Software Developer Courses
 - 💞️ I’m looking to collaborate on really anything, ideally I'd love to build websites/apps/and video game content in the future.
