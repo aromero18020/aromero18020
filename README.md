@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andres Romero @aromero18020
-- 👀 I’m interested in learning to code and changing my career.
-- 🌱 I’m currently learning through CodeCademy's Full Stack Software Developer Courses and supplementing the courses offered by FreeCodeCamp
-- 💞️ I’m looking to collaborate on projects and code reviews, ideally I'd love to build websites/applications/and software for business needs.
+- 👀 I’m interested in learning to code and changing my career to become a Full Stack Software Developer.
+- 🌱 I’m currently learning through CodeCademy's Full Stack Software Developer Courses and supplementing the courses offered by FreeCodeCamp. I recently have enrolled into a Web Development Bootcamp offered by GenerationUSA. 
+- 💞️ I’m looking to collaborate with like-minded individuals to review, and collaborate on projects. 
 - 📫 Contact Me by e-mail: romeroandre801@outlook.com
 
 <!---
