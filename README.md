@@ -24,7 +24,7 @@ As an avid learner, I am always eager to expand my knowledge and explore new tec
 With skills in leading teams and effective communication, I am confident that my attention to detail, motivation, and enthusiasm for learning will help me excel in the technology field. I am working towards becoming a FullStack Developer and am excited to continue my learning journey.
 
 If you are looking for a driven and adaptable individual that is passionate about web development, please don't hesitate to reach out!
-- Personal website [link](https://www.andrestromero.com)
+- Personal website [www.andrestromero.com](https://www.andrestromero.com)
 
 <br><br>
 
