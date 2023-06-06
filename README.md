@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Andres Romero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11CBF7&center=true&vCenter=true&width=435&lines=Front+End+Developer;Web+Development+Bootcamp+Graduate;Aspiring+Fullstack+Developer;Lifelong+Learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11CBF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Ethical+Hacker;" alt="Typing SVG" /></a>
 </p>
 
 
@@ -43,7 +43,10 @@ If you are looking for a driven and adaptable individual that is passionate abou
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+   ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
 
 - **Cloud Hosting**:
