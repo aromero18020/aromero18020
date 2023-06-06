@@ -13,17 +13,16 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-Hello! My name is Andres, and I am a recent Generation USA Web Development graduate with a passion for web development. I am a highly motivated problem solver with a proven track record of adapting to new challenges quickly.
+Hello! My name is Andres, I am a highly motivated problem solver with a proven track record of adapting to new challenges quickly.
 
-As an avid learner, I am always eager to expand my knowledge and explore new technologies. I have a strong foundation in HTML, CSS, Bootstrap, and JavaScript as well as experience using developer tools such as Git, GitHub, Netlify, Surge, The Command Line, and Agile methodologies.
+As an avid learner, I am always eager to expand my knowledge and explore new technologies. I have a strong foundation in HTML, CSS, Bootstrap, and JavaScript, Node, Express, and PostgreSQL as well as experience using developer tools such as Git, GitHub, Netlify, Surge, The Command Line, and Agile methodologies.
 
-With skills in leading teams and effective communication, I am confident that my attention to detail, motivation, and enthusiasm for learning will help me excel in the technology field. I am working towards becoming a FullStack Developer and am excited to continue my learning journey.
+With skills in leading teams and providing effective communication, I am confident that my attention to detail, motivation, and enthusiasm for learning will help me excel in the technology field.
 
-If you are looking for a driven and adaptable individual that is passionate about web development, please don't hesitate to reach out!
+If you are looking for a driven and adaptable individual that is passionate about technology, please don't hesitate to reach out!
 
 
 <br><br>
