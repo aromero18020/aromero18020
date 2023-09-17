@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Andres Romero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11CBF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Ethical+Hacker;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11CBF7&center=true&vCenter=true&width=435&lines=IT+Professional;Cybersecurity Enthusiast;Ethical+Hacker;" alt="Typing SVG" /></a>
 </p>
 
 
