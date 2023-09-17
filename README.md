@@ -16,13 +16,15 @@
 
 <br>
 
-Hello! My name is Andres, I am a highly motivated problem solver with a proven track record of adapting to new challenges quickly.
+Hello! 
 
-As an avid learner, I am always eager to expand my knowledge and explore new technologies. I have a strong foundation in HTML, CSS, Bootstrap, and JavaScript, Node, Express, and PostgreSQL as well as experience using developer tools such as Git, GitHub, Netlify, Surge, The Command Line, and Agile methodologies.
+I'm Andres, a highly motivated IT professional with a specialized focus and passion on all things cybersecurity.
 
-With skills in leading teams and providing effective communication, I am confident that my attention to detail, motivation, and enthusiasm for learning will help me excel in the technology field.
+While I have a background in web development, my primary focus centers on excelling in the dynamic field of cybersecurity and information assurance. Recently, I completed two career certificates offered through Coursera in partnership with the Grow with Google program: The Google IT Support Specialist and the Google Cybersecurity Certificate. These programs equipped me with essential skills needed in networking, operating systems, system administration, and security such as an understanding of NIST Frameworks, Security Controls, Data protection, and the ability to identify threats, risks, and vulnerabilities using SQL, Linux, and Python.
 
-If you are looking for a driven and adaptable individual that is passionate about technology, please don't hesitate to reach out!
+I believe that my leadership skills, coupled with effective communication, and organization enable me to contribute meaningfully as a member to any team. With a keen eye for detail, unwavering motivation, and a dedication to lifelong learning, I'm currently on a journey toward earning a bachelor's degree in cybersecurity and information assurance.
+
+If you're seeking a dedicated and adaptable professional who's passionate about cybersecurity, please don't hesitate to connect with me. I'm excited to explore opportunities to collaborate and contribute to your team's success!
 
 
 <br><br>
