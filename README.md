@@ -25,6 +25,8 @@ I believe that my leadership skills, coupled with effective communication, and o
 
 If you're seeking a dedicated and adaptable professional who's passionate about cybersecurity, please don't hesitate to connect with me. I'm excited to explore opportunities to collaborate and contribute to your team's success!
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/NotoriousGhost.png" alt="TryHackMe">
+
 
 <br><br>
 
@@ -95,8 +97,6 @@ If you're seeking a dedicated and adaptable professional who's passionate about 
 <br>
 
 <div align="center">
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/NotoriousGhost.png" alt="TryHackMe">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aromero18020&show_icons=true&theme=dark)
 
