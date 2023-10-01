@@ -96,6 +96,7 @@ If you're seeking a dedicated and adaptable professional who's passionate about 
 
 <div align="center">
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/NotoriousGhost.png" alt="TryHackMe">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aromero18020&show_icons=true&theme=dark)
 
