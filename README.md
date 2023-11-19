@@ -14,16 +14,15 @@
 
 
 <br>
+Hello!
 
-Hello! 
+I'm Andres, a highly motivated IT professional with a specialized focus and passion on all things IT & cybersecurity.
 
-I'm Andres, a highly motivated IT professional with a specialized focus and passion on all things cybersecurity.
+While I have a background in web development, my primary focus centers on excelling in the dynamic field of cybersecurity and information assurance. Recently, I completed two career certificates offered through Coursera in partnership with the Grow with Google program: The Google IT Support Specialist and the Google Cybersecurity Certificate and in addition, became Comptia A+ certified. These programs equipped me with essential skills needed in networking, operating systems, system administration, troubleshooting, and security such as an understanding of NIST Frameworks, Security Controls, Data protection, and the ability to identify threats, risks, and vulnerabilities using SQL, Linux, and Python.
 
-While I have a background in web development, my primary focus centers on excelling in the dynamic field of cybersecurity and information assurance. Recently, I completed two career certificates offered through Coursera in partnership with the Grow with Google program: The Google IT Support Specialist and the Google Cybersecurity Certificate. These programs equipped me with essential skills needed in networking, operating systems, system administration, and security such as an understanding of NIST Frameworks, Security Controls, Data protection, and the ability to identify threats, risks, and vulnerabilities using SQL, Linux, and Python.
+I believe that my leadership skills, coupled with effective communication, and organization enable me to contribute meaningfully as a member to any team. With a keen eye for detail, unwavering motivation, and a dedication to lifelong learning, I'm currently on a journey toward earning a bachelor's degree in cybersecurity and information assurance with Western Governors University.
 
-I believe that my leadership skills, coupled with effective communication, and organization enable me to contribute meaningfully as a member to any team. With a keen eye for detail, unwavering motivation, and a dedication to lifelong learning, I'm currently on a journey toward earning a bachelor's degree in cybersecurity and information assurance.
-
-If you're seeking a dedicated and adaptable professional who's passionate about cybersecurity, please don't hesitate to connect with me. I'm excited to explore opportunities to collaborate and contribute to your team's success!
+If you're seeking a dedicated and adaptable professional who's passionate about IT and cybersecurity, please don't hesitate to connect with me. I'm excited to explore opportunities to collaborate and contribute to your team's success!
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/NotoriousGhost.png" alt="TryHackMe">
 
